@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/events-react/static/css/main.756af292.css",
+    "main.js": "/events-react/static/js/main.8031e6cc.js",
+    "static/js/787.691f4a56.chunk.js": "/events-react/static/js/787.691f4a56.chunk.js",
+    "index.html": "/events-react/index.html",
+    "main.756af292.css.map": "/events-react/static/css/main.756af292.css.map",
+    "main.8031e6cc.js.map": "/events-react/static/js/main.8031e6cc.js.map",
+    "787.691f4a56.chunk.js.map": "/events-react/static/js/787.691f4a56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.8031e6cc.js"
+  ]
+}
